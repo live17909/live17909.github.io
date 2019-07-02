@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 辰颐物语
+title: 辰颐物语(微信yanxuanhui8)
 subtitle: 辰颐物语总代招商
 description: 辰颐物语是以有机生态农业为核心的微商代理平台,上百亩有机农田打造绿色无公害水果,绿色健康,产品生长过程中不添加任何化学用品,让消费者吃到最新鲜美味,绿色健康的水果.
 keywords: 辰颐物语,辰颐物语,辰颐物语代理,辰颐物语代理升级
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://live17909.github.io/
+url: http://blog.ifruit8.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -83,8 +83,8 @@ theme: bmw
 deploy:
   type: git 
   repo: 
-   #github: https://github.com/live17909/live17909.github.io.git
+   github: https://github.com/live17909/live17909.github.io.git
    #coding: https://e.coding.net/cywu/ifruit.git
-   git@94.191.56.66:/var/repo/hexo_static.git
+   #git@94.191.56.66:/var/repo/hexo_static.git
     
   branch: master 
